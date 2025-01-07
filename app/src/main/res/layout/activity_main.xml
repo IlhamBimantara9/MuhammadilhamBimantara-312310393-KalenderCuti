@@ -78,7 +78,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Senin, 01 januari 2024"
+                android:text="Rabu, 01 januari 2025"
                 android:layout_marginStart="15dp"
                 android:textColor="#000000"
                 android:textSize="16sp" />
@@ -87,7 +87,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="5dp"
                 android:layout_marginStart="15dp"
-                android:text="Tahun Baru 2024 Masehi"
+                android:text="Tahun Baru 2025 Masehi"
                 android:textColor="#000000"
                 android:textStyle="bold"
                 android:textSize="16sp" />
@@ -104,7 +104,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Senin, 01 januari 2024"
+            android:text="Senin, 27 januari 2025"
             android:layout_marginStart="15dp"
             android:textColor="#000000"
             android:textSize="16sp" />
@@ -113,7 +113,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="5dp"
             android:layout_marginStart="15dp"
-            android:text="Tahun Baru 2024 Masehi"
+            android:text="Isra Mikraj Nabi Muhammad SAW"
             android:textColor="#000000"
             android:textStyle="bold"
             android:textSize="16sp" />
@@ -130,7 +130,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Senin, 01 januari 2024"
+            android:text="Selasa, 28 januari 2024"
             android:layout_marginStart="15dp"
             android:textColor="#000000"
             android:textSize="16sp" />
@@ -139,7 +139,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="5dp"
             android:layout_marginStart="15dp"
-            android:text="Tahun Baru 2024 Masehi"
+            android:text="Cuti Bersama Imlek"
             android:textColor="#000000"
             android:textStyle="bold"
             android:textSize="16sp" />
@@ -156,7 +156,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Senin, 01 januari 2024"
+            android:text="Rabu, 29 januari 2025"
             android:layout_marginStart="15dp"
             android:textColor="#000000"
             android:textSize="16sp" />
@@ -165,7 +165,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="5dp"
             android:layout_marginStart="15dp"
-            android:text="Tahun Baru 2024 Masehi"
+            android:text="Tahun Baru Imlek"
             android:textColor="#000000"
             android:textStyle="bold"
             android:textSize="16sp" />
@@ -182,7 +182,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Senin, 01 januari 2024"
+            android:text="Juma'at, 28 Maret 2025"
             android:layout_marginStart="15dp"
             android:textColor="#000000"
             android:textSize="16sp" />
@@ -191,7 +191,33 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="5dp"
             android:layout_marginStart="15dp"
-            android:text="Tahun Baru 2024 Masehi"
+            android:text="Cuti Bersama Nyepi"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:textSize="16sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="67dp"
+        android:layout_margin="10dp"
+        android:background="#CCEEFF"
+        android:elevation="5dp"
+        android:orientation="vertical"
+        android:gravity="start|center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sabtu, 29 Maret 2025"
+            android:layout_marginStart="15dp"
+            android:textColor="#000000"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginStart="15dp"
+            android:text="Hari Suci Nyepi"
             android:textColor="#000000"
             android:textStyle="bold"
             android:textSize="16sp" />
